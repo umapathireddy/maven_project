@@ -4,7 +4,7 @@
   <groupId>javaproj</groupId>
   <artifactId>superhello</artifactId>
   <packaging>war</packaging>
-  <version>1.0.$BUILD_NUMBER</version>
+  <version>1.0.${BUILD_NUMBER}</version>
   <!-- 1.0.$BUILD_NUMBER -->
  <!--  <version>1.0-SNAPSHOT</version> -->
   <name>hello Maven Webapp</name>
