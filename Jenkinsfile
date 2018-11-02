@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('clone') {
       steps {
-        sh 'git clone'
+        git(url: 'https://github.com/umapathireddy/maven_project.git', changelog: true, poll: true)
       }
     }
   }
