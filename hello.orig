@@ -2,13 +2,14 @@ HEAD
 HEAD
 supe
 it is my hello
+<<<<<<< HEAD
 hello
-
+=======
 
 
 
 hellhello my datao
-hello
+>>>>>>> hello
 iheeo
 hello
 new data
