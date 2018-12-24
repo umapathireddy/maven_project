@@ -8,10 +8,8 @@ pipeline {
     }
   }
 }
-<<<<<<< HEAD
-=======
 hello
 my
 
 hello3
->>>>>>> hello
+
