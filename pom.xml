@@ -17,7 +17,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
+  git reset
   <repositories>
     <repository>
       <id>my-internal-site</id>
