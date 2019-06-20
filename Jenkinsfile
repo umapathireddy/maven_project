@@ -4,6 +4,7 @@ pipeline {
     stage('compile') {
       steps {
         sh 'mvn package'
+	sh 'echo pavan'
       }
     }
   }
