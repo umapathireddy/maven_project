@@ -7,6 +7,9 @@ pipeline {
 	sh 'echo pavan'
 	sh 'editred'
 	edited
+	      askfhkla
+	      ksahfkl
+	      ksdafk:
       }
     }
   }
